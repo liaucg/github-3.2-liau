@@ -5,7 +5,7 @@ _SCTP Cloud Infrastructure Module 3.2 Assignment_
 ## What is GitHib Authentication?
 GitHub authentication refers to the process of verifying the identity of users who want to access GitHub. GitHub provides various authentication methods to ensure that only authorized users can perform actions such as pushing changes to repositories, creating issues, or managing settings.
 
-## Here are some common GitHub authentication methods:
+## Common GitHub Authentication Methods:
 
 - Username and password: This is the most basic form of authentication, where users provide their GitHub username and password to login to their GitHub account.
 
